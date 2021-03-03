@@ -1,0 +1,17 @@
+{
+  "name": "BigD",
+  "version": "1.0.0",
+  "description": "Faber's dockerized node.js API for K8S",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Faber",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "boostrap": "^2.0.0",
+    "express": "^4.17.1"
+  }
+}
